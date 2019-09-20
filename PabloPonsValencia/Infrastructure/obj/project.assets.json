@@ -12106,11 +12106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ppons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12129,8 +12129,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Domain\\Domain.csproj"
+            "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Domain\\Domain.csproj"
             }
           }
         }

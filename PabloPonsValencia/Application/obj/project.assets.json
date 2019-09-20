@@ -1120,11 +1120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\ppons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Application\\obj\\",
+      "outputPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1143,8 +1143,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Domain\\Domain.csproj"
+            "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Domain\\Domain.csproj"
             }
           }
         }

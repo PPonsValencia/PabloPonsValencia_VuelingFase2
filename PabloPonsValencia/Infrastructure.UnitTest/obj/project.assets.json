@@ -6003,11 +6003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Infrastructure.UnitTest\\Infrastructure.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Infrastructure.UnitTest\\Infrastructure.UnitTest.csproj",
       "projectName": "Infrastructure.UnitTest",
-      "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Infrastructure.UnitTest\\Infrastructure.UnitTest.csproj",
+      "projectPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Infrastructure.UnitTest\\Infrastructure.UnitTest.csproj",
       "packagesPath": "C:\\Users\\ppons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Development\\PabloPonsValencia\\Infrastructure.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\ppons\\Documents\\Vueling\\2 FaseDos\\Temporal\\Prueba\\Finished\\PabloPonsValencia_VuelingFase2\\PabloPonsValencia\\Infrastructure.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
