@@ -1,0 +1,14 @@
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.deps.json
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csprojAssemblyReference.cache
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.AssemblyInfo.cs
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.dll
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.pdb
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.json
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\bin\Debug\netcoreapp2.2\Infrastructure.runtimeconfig.dev.json
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\ppons\Documents\Vueling\2 FaseDos\Temporal\Prueba\Development\PabloPonsValencia\Infrastructure\obj\Debug\netcoreapp2.2\Infrastructure.csproj.CopyComplete
